@@ -1,0 +1,3 @@
+rootProject.name='SampayLib'
+include ':app'
+include ':sampay'
