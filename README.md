@@ -21,6 +21,7 @@ app/build.gradle
 ```
    dependencies {
          implementation 'com.github.geraldPhiri:sampay_payment_dialog:v1.0'
+         implementation("com.squareup.okhttp3:okhttp:4.7.2")
    }
 ```
 
