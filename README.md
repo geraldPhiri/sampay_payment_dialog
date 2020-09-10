@@ -11,12 +11,14 @@ An easy way to add payments to your mobile applications
 
 ## Installation
 
-
+project_name/build.gradle
 ```
    repositories { 
         maven { url 'https://jitpack.io' }
    }
-   
+```
+app/build.gradle
+```
    dependencies {
          implementation 'com.github.geraldPhiri:sampay_payment_dialog:v1.0'
    }
