@@ -14,7 +14,7 @@ An easy way to add payments to your mobile applications
 
 ```
    repositories { 
-        jcenter()
+        maven { url 'https://jitpack.io' }
    }
    
    dependencies {
