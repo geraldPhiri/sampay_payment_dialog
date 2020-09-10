@@ -1,7 +1,7 @@
 # sampay_payment_dialog
 An easy way to add payments to your mobile applications
 
-<img src="/.github/sampay_shot_1.png" width="280" height="498" alt="Screenshot 1"/>
+<img src="sampay_shot_1.png" width="280" height="498" alt="Screenshot 1"/>
 
 
 [![](https://jitpack.io/v/geraldPhiri/sampay_payment_dialog.svg)](https://jitpack.io/#geraldPhiri/sampay_payment_dialog)
